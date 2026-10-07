@@ -1,0 +1,41 @@
+﻿run_id,annotation_version,activity,leg_year,status,basis,complete_sources,unmatched,ambiguous,undated_events
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2016,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",2,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2017,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2018,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",1,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2019,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2020,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",63,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2021,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",79,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2022,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",59,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2023,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2024,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_primary,2025,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2016,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",78,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2017,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",19,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2018,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",16,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2019,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",3,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2020,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",405,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2021,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",341,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2022,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",226,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2023,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",3,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2024,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,bill_cosign,2025,complete,"lyapi_bills (full, ok); official_bills_id20 (full, ok)","[""lyapi_bills"", ""official_bills_id20""]",0,0,167
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2016,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",88,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2017,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",91,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2018,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",84,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2019,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",84,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2020,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok); lyapi_gazette_transcripts_text (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_gazette_transcripts_text"", ""lyapi_ivods""]",261,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2021,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",277,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2022,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",196,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2023,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",67,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2024,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",88,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,speech,2025,complete,"lyapi_ivods (full, ok); lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_ivods""]",94,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2016,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",2,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2017,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",4,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2018,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",0,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2019,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",0,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2020,complete,"lyapi_gazette_transcripts (full, ok); lyapi_gazette_transcripts_text (full, ok)","[""lyapi_gazette_transcripts"", ""lyapi_gazette_transcripts_text""]",0,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2021,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",1,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2022,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",2,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2023,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",0,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2024,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",0,0,645
+fetch-20261006T122600Z-dfc47335,v2.1-f4676a0b,written_question,2025,complete,"lyapi_gazette_transcripts (full, ok)","[""lyapi_gazette_transcripts""]",0,0,645
